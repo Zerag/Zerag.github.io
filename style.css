@@ -1,0 +1,30 @@
+body {
+    background: #ebeef1;
+    text-align: left;
+    font-family: 'Rubik', arial;
+    font-size: 30px;
+    margin: 10%;
+}
+h1{
+    color:#0e1e38
+}
+p {
+    font-family: 'Lexend', sans-serif;
+    font-size: 25px;
+    padding-right: 35%;
+}
+img {
+    background: #0e1e38;
+    height: 350px;
+    width: 250px;
+    position: absolute;
+    top: 30%; left: 65%;
+}
+.goofy {
+    background-color: #0e1e38;
+    width: 100%;
+    height: 200px;
+    rotate: -7deg;
+    position: absolute;
+    top: -18%; left: -20%;
+}
